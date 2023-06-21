@@ -1,5 +1,20 @@
 # Rapport de stage
 
+- [Rapport de stage](#rapport-de-stage)
+  - [1er jour:](#1er-jour)
+    - [Hygiène](#hygiène)
+    - [Sécurité](#sécurité)
+    - [Livraison](#livraison)
+    - [Effet négatif:](#effet-négatif)
+    - [Effet positif:](#effet-positif)
+  - [2ème jour](#2ème-jour)
+    - [Matin](#matin)
+    - [Témoignage](#témoignage)
+    - [Effets négatifs:](#effets-négatifs)
+    - [Effets positifs:](#effets-positifs)
+    - [Aprèm](#aprèm)
+    - [Témoignage](#témoignage-1)
+
 
 ## 1er jour:
 
