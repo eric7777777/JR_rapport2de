@@ -129,3 +129,6 @@ Cette journée était meilleure que la 1er, je suis resté plus statistique mais
 
 
 ## 1.4. troisième jour
+1 classique smoothie: 450 ml de jus avec fruits compris
+1 grand smoothie : 550 ml de jus avec fruits compris
+J’ai pris des photos ce jour:
