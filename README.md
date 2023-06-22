@@ -5,21 +5,21 @@
     - [1.1.1. Hygiène](#111-hygiène)
     - [1.1.2. Sécurité](#112-sécurité)
     - [1.1.3. Livraison](#113-livraison)
-    - [1.2. Service](#12-service)
-    - [1.2.1. Effets négatifs](#121-effets-négatifs)
-    - [1.2.2. Effets positifs](#122-effets-positifs)
-  - [1.3. deuxième jour - Matin](#13-deuxième-jour---matin)
-    - [1.3.1. Dans le colombus](#131-dans-le-colombus)
-    - [1.3.2. Types de cafés](#132-types-de-cafés)
-    - [1.3.3. Témoignage](#133-témoignage)
-    - [1.3.4. Effets négatifs](#134-effets-négatifs)
-    - [1.3.5. Effets positifs](#135-effets-positifs)
-  - [1.4. deuxième jour - Après midi](#14-deuxième-jour---après-midi)
-    - [1.4.1. Columbus encore](#141-columbus-encore)
-    - [1.4.2. Effets positifs](#142-effets-positifs)
-    - [1.4.3. Effets négatifs](#143-effets-négatifs)
-    - [1.4.4. Témoignage](#144-témoignage)
-  - [1.5. 3ème jour](#15-3ème-jour)
+    - [1.1.4. Service](#114-service)
+    - [1.1.5. Effets négatifs](#115-effets-négatifs)
+    - [1.1.6. Effets positifs](#116-effets-positifs)
+  - [1.2. deuxième jour - Matin](#12-deuxième-jour---matin)
+    - [1.2.1. Dans le colombus](#121-dans-le-colombus)
+    - [1.2.2. Types de cafés](#122-types-de-cafés)
+    - [1.2.3. Témoignage](#123-témoignage)
+    - [1.2.4. Effets négatifs](#124-effets-négatifs)
+    - [1.2.5. Effets positifs](#125-effets-positifs)
+  - [1.3. deuxième jour - Après midi](#13-deuxième-jour---après-midi)
+    - [1.3.1. Columbus encore](#131-columbus-encore)
+    - [1.3.2. Effets positifs](#132-effets-positifs)
+    - [1.3.3. Effets négatifs](#133-effets-négatifs)
+    - [1.3.4. Témoignage](#134-témoignage)
+  - [1.4. troisième jour](#14-troisième-jour)
 
 ## 1.1. premier jour
 
@@ -31,7 +31,7 @@ Il est essentiel de prendre des mesures de sécurité, comme débrancher les pri
 ###  1.1.3. Livraison
 J'ai effectué la livraison de plusieurs chariots de petit-déjeuner dans des salles de réunion. Les chariots étaient composés de viennoiseries, d'eau, de jus d'orange, de café et de thé.
 
-### 1.2. Service
+### 1.1.4. Service
 Pendant 4 heures, j'ai travaillé dans une cafétéria avec des collègues. Mes tâches consistaient à accueillir les clients, préparer les commandes, encaisser les paiements et remettre les produits aux clients en leur souhaitant une bonne journée. 
 J'ai également remarqué que certains clients revenaient plusieurs fois dans la journée pour prendre un café.
  Cependant, j'ai travaillé dans des conditions chaudes car la climatisation ne fonctionnait pas.
@@ -41,25 +41,25 @@ J'ai également remarqué que certains clients revenaient plusieurs fois dans la
 
 
 
-### 1.2.1. Effets négatifs
+### 1.1.5. Effets négatifs
 
 Les conditions de travail étaient pénibles en raison de la chaleur et du manque de climatisation. 
 De plus, j'ai reçu moins d'aide et de soutien au fil du temps, et on m'a confié de plus en plus de responsabilités, ce qui n'était pas prévu dans mon stage d'observation.
  De plus, le temps imparti pour les repas était limité, ce qui était frustrant et fatigant de ne pas avoir suffisamment de pauses pour se reposer et digérer. Malgré le fait d'être en stage d'observation, j'ai été entraîné à travailler comme si c'était un emploi régulier.
 
 
-### 1.2.2. Effets positifs
+### 1.1.6. Effets positifs
 
 J'ai appris à préparer des cafés et à développer mes compétences en matière d'interaction sociale avec les clients.
 
 
-## 1.3. deuxième jour - Matin
+## 1.2. deuxième jour - Matin
 
-### 1.3.1. Dans le colombus
+### 1.2.1. Dans le colombus
 
 Il est important de changer les grains de café à chaque préparation de boisson.
 
-### 1.3.2. Types de cafés 
+### 1.2.2. Types de cafés 
 
 Café expresso
 
@@ -75,7 +75,7 @@ Latté : lait écrémé + expresso
 Smoothie : variétés vertes, fruits rouges, orange
 
 
-### 1.3.3. Témoignage
+### 1.2.3. Témoignage
 
 Ce matin, j'ai appris à préparer des cafés avec du lait. Nous chauffons le lait avec un vaporisateur d'eau bouillante et nous ajustons la quantité de vapeur pour obtenir la consistance souhaitée (lait écrémé ou lait mousseux). 
 Le personnel est sympathique, mais le travail est fatigant. J'aimerais avoir plus de pauses.
@@ -84,12 +84,12 @@ Information : Toujours remplir les verres complètement.
 
 
 
-###  1.3.4. Effets négatifs
+###  1.2.4. Effets négatifs
 Après 1 heure et demie de service au Columbus, j'avais mal aux pieds car le travail était plutôt statique et les clients affluaient constamment.
 
 
 
-### 1.3.5. Effets positifs
+### 1.2.5. Effets positifs
 Il y a beaucoup plus de variations dans les tâches à effectuer par rapport au "Sweet Work Home Café". Par exemple, les cafés au Columbus sont faits manuellement et sont de meilleure qualité. 
 Les cafés et thés sont biologiques, et il y a moins de gaspillage. 
 On m'a prêté un tablier. L'équipe n'est pas du tout critique, elle est plutôt agréable, et on s'y habitue facilement.
@@ -97,9 +97,9 @@ On m'a prêté un tablier. L'équipe n'est pas du tout critique, elle est plutô
 
 
 
-##  1.4. deuxième jour - Après midi
+##  1.3. deuxième jour - Après midi
 
-### 1.4.1. Columbus encore
+### 1.3.1. Columbus encore
 
 J'ai appris à préparer un thé glacé : 4 à 5 pulvérisations de sirop + eau de thé du réfrigérateur + glaçons.
 
@@ -116,16 +116,16 @@ Concentré : 1 demi-café.
 Smoothie : fruits glacés (50-100 g) + jus de pomme (450 ml).
 
 
-### 1.4.2. Effets positifs
+### 1.3.2. Effets positifs
 L'équipe est agréable, et on s'habitue facilement. J'ai pu diversifier mes tâches et le travail était plus intéressant. De plus, il faisait moins chaud car la climatisation était en marche.
 
-### 1.4.3. Effets négatifs
+### 1.3.3. Effets négatifs
 
-###  1.4.4. Témoignage
+###  1.3.4. Témoignage
 
 Cette journée était meilleure que la 1er, je suis resté plus statistique mais le travail était plus varié et intéressant. Il faisait aussi moins chaud car la clim était présente.
 
 
 
 
-## 1.5. 3ème jour
+## 1.4. troisième jour
