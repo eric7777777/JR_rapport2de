@@ -1,27 +1,27 @@
 # 1. Rapport de stage
 
 - [1. Rapport de stage](#1-rapport-de-stage)
-  - [1.1. 1er jour](#11-1er-jour)
+  - [1.1. premier jour](#11-premier-jour)
     - [1.1.1. Hygiène](#111-hygiène)
     - [1.1.2. Sécurité](#112-sécurité)
     - [1.1.3. Livraison](#113-livraison)
-  - [1.2. Service](#12-service)
+    - [1.2. Service](#12-service)
     - [1.2.1. Effets négatifs](#121-effets-négatifs)
     - [1.2.2. Effets positifs](#122-effets-positifs)
-  - [1.3. 2ème jour - Matin](#13-2ème-jour---matin)
+  - [1.3. deuxième jour - Matin](#13-deuxième-jour---matin)
     - [1.3.1. Dans le colombus](#131-dans-le-colombus)
     - [1.3.2. Types de cafés](#132-types-de-cafés)
     - [1.3.3. Témoignage](#133-témoignage)
     - [1.3.4. Effets négatifs](#134-effets-négatifs)
     - [1.3.5. Effets positifs](#135-effets-positifs)
-  - [1.4. Jour 2 - Après midi](#14-jour-2---après-midi)
+  - [1.4. deuxième jour - Après midi](#14-deuxième-jour---après-midi)
     - [1.4.1. Columbus encore](#141-columbus-encore)
     - [1.4.2. Effets positifs](#142-effets-positifs)
     - [1.4.3. Effets négatifs](#143-effets-négatifs)
     - [1.4.4. Témoignage](#144-témoignage)
   - [1.5. 3ème jour](#15-3ème-jour)
 
-## 1.1. 1er jour
+## 1.1. premier jour
 
 ### 1.1.1. Hygiène
 Il est important de respecter les règles d'hygiène, telles que ne pas porter de bijoux au travail, utiliser des gants lors de la manipulation des aliments et des gants anti-coupure lors de la préparation de la cuisine. Il est également nécessaire de porter une blouse et des chaussures propres. L'utilisation du téléphone portable n'est pas autorisée devant les comptoirs et les machines.
@@ -31,7 +31,7 @@ Il est essentiel de prendre des mesures de sécurité, comme débrancher les pri
 ###  1.1.3. Livraison
 J'ai effectué la livraison de plusieurs chariots de petit-déjeuner dans des salles de réunion. Les chariots étaient composés de viennoiseries, d'eau, de jus d'orange, de café et de thé.
 
-## 1.2. Service
+### 1.2. Service
 Pendant 4 heures, j'ai travaillé dans une cafétéria avec des collègues. Mes tâches consistaient à accueillir les clients, préparer les commandes, encaisser les paiements et remettre les produits aux clients en leur souhaitant une bonne journée. 
 J'ai également remarqué que certains clients revenaient plusieurs fois dans la journée pour prendre un café.
  Cependant, j'ai travaillé dans des conditions chaudes car la climatisation ne fonctionnait pas.
@@ -53,7 +53,7 @@ De plus, j'ai reçu moins d'aide et de soutien au fil du temps, et on m'a confi�
 J'ai appris à préparer des cafés et à développer mes compétences en matière d'interaction sociale avec les clients.
 
 
-## 1.3. 2ème jour - Matin
+## 1.3. deuxième jour - Matin
 
 ### 1.3.1. Dans le colombus
 
@@ -97,7 +97,7 @@ On m'a prêté un tablier. L'équipe n'est pas du tout critique, elle est plutô
 
 
 
-##  1.4. Jour 2 - Après midi
+##  1.4. deuxième jour - Après midi
 
 ### 1.4.1. Columbus encore
 
